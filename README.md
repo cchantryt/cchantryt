@@ -1,10 +1,17 @@
-## Hi there 👋
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu_usuario)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/tu_usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@dominio.com)
 
 ## 👋 About Me
 
 I am from Colombia  
 🔭 Systems Engineer
+
 ⚡ Gym bro and Professional Esports player
+
+![Profile views](https://komarev.com/ghpvc/?username=cchantryt&color=blue&style=flat)
 
 ## 🛠 Language and Tools
 
@@ -25,6 +32,12 @@ I am from Colombia
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+## 🚀 Featured Projects
+
+- 🔗 [Nombre del Proyecto](URL) — Breve descripción (tecnologías principales)
+- 🔗 [Nombre del Proyecto](URL) — Breve descripción (tecnologías principales)
+
 
 ## 🔥 My Stats
 
