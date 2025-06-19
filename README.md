@@ -33,7 +33,7 @@ I am from Colombia
 
 ## 🚀 Featured Projects
 
-- 🔗 [Architecture project]([URL](https://github.com/users/davidfer1112/projects/15)) 
+- 🔗 [Architecture Porject([URL](https://github.com/users/davidfer1112/projects/15/views/1)) 
 - 🔗 [Thesis  - SiembraSmart([URL](https://github.com/cchantryt/SiembraSmart)) 
 - 🔗 [Firts Independent Job([URL](https://github.com/cchantryt/MyLawyer)) 
 - 🔗 [Scrum Master:([URL](https://github.com/cchantryt/PuraVits-Lab)) 
