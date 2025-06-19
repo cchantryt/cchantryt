@@ -33,17 +33,16 @@ I am from Colombia
 
 ## 🚀 Featured Projects
 
-- 🔗 [Architecture project]([URL](https://github.com/users/davidfer1112/projects/15)) — Breve descripción (tecnologías principales)
-- 🔗 [Thesis  - SiembraSmart([URL](https://github.com/cchantryt/SiembraSmart)) — Breve descripción (tecnologías principales)
-- 🔗 [Firts Independent Job([URL](https://github.com/cchantryt/MyLawyer)) — Breve descripción (tecnologías principales)
-- 🔗 [Scrum Master:([URL](https://github.com/cchantryt/PuraVits-Lab)) — Breve descripción (tecnologías principales)
+- 🔗 [Architecture project]([URL](https://github.com/users/davidfer1112/projects/15)) 
+- 🔗 [Thesis  - SiembraSmart([URL](https://github.com/cchantryt/SiembraSmart)) 
+- 🔗 [Firts Independent Job([URL](https://github.com/cchantryt/MyLawyer)) 
+- 🔗 [Scrum Master:([URL](https://github.com/cchantryt/PuraVits-Lab)) 
 
 
 ## 🔥 My Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cchantryt&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cchantryt&layout=compact&theme=dark)
-![snake gif](https://github.com/cchantryt/cchantryt/blob/output/github-contribution-grid-snake.svg)
 
 
 
