@@ -7,7 +7,7 @@
 
 I am from Colombia  
 🔭 Systems Engineer
-⚡ Gym bro and Professional Esports player
+⚡ Professional Esports player
 
 ![Profile views](https://komarev.com/ghpvc/?username=cchantryt&color=blue&style=flat)
 
